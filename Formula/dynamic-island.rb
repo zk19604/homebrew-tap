@@ -5,7 +5,7 @@
 # downloaded as a binary, never gets the quarantine flag, and needs no
 # paid Apple Developer account (it is ad-hoc signed during the build).
 class DynamicIsland < Formula
-  desc "Dynamic Island for the Mac: Now Playing, clipboard history and quick notes"
+  desc "Notch island for the Mac: Now Playing, clipboard history and quick notes"
   homepage "https://github.com/zk19604/dynamic-island"
   url "https://github.com/zk19604/dynamic-island/archive/refs/tags/v1.0.1.tar.gz"
   sha256 "6e2d4c81fee509343004fedf76d1cfb94a82366f516af4a4e04feaa007a73c66"
